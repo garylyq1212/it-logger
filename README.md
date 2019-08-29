@@ -1,3 +1,4 @@
 # IT Logger
 
-### Build with React Hooks & Redux
+### FRONTEND: Build with React Hooks & Redux
+### BACKEND: json-server
