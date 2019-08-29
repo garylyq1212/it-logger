@@ -11,6 +11,11 @@ const EditLogModal = () => {
       M.toast({ html: 'Please enter the message and tech', classes: 'red' });
     } else {
       console.log(message, tech, attention);
+
+      // Clear fields
+      setMessage('');
+      setAttention(false);
+      setTech('');
     }
   };
 

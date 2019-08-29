@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Change hard drive on workstation 005",
+      "message": "Update OS version on server 009",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Jim Powell"
+      "tech": "Jim Powell",
+      "date": "2019-08-29T12:56:47.327Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Hard drive failure in workstation 002",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "Harry Hudson"
+      "tech": "Kelly Simpson",
+      "date": "2019-08-29T12:57:04.256Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Check memory drive on workstation 005",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Kelly Simpson"
+      "tech": "Harry Hudson",
+      "date": "2019-08-29T12:57:25.155Z",
+      "id": 3
     }
   ],
   "techs": [
