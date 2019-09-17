@@ -13,6 +13,20 @@
       "tech": "Kelly Simpson",
       "date": "2019-08-29T13:31:12.515Z",
       "id": 3
+    },
+    {
+      "id": 4,
+      "message": "System down on PC 008",
+      "attention": true,
+      "tech": "James Hopper",
+      "date": "2019-09-17T08:56:20.173Z"
+    },
+    {
+      "message": "Configure system settings on PC 002",
+      "attention": false,
+      "tech": "Harry Hudson",
+      "date": "2019-09-17T08:56:49.469Z",
+      "id": 5
     }
   ],
   "techs": [
